@@ -3,6 +3,7 @@
 Resources:
 * https://eclecticlight.co
 * https://theevilbit.github.io
+* https://www.mothersruin.com
 
 ### xattr
 How macOS now tracks the provenance of apps
